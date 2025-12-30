@@ -1,6 +1,6 @@
 # ESP32 Smart Mini Hub
 # Technical Description
-IoT implementation of a smart home automation hub designed for the ESP32 NodeMCU platform. This project demonstrates a complete hardware–software embedded system that autonomously regulates lighting based on ambient environmental conditions, integrates remote web-based control, and features real-time status synchronization between the hardware and a client interface.  
+IoT implementation of a smart home automation hub designed for the ESP32 NodeMCU platform. This project demonstrates a complete hardware–software embedded system that autonomously regulates lighting based on ambient environmental conditions, integrates remote web-based control and features real-time status synchronization between the hardware and a client interface.  
 **<p align="center"><i> Real-Time Responsive Web Dashboard (Mobile View)</i></p>**  
 <p align="center">
   <img src="assets/Smart_Mini_Hub_Dashboard1.png"
